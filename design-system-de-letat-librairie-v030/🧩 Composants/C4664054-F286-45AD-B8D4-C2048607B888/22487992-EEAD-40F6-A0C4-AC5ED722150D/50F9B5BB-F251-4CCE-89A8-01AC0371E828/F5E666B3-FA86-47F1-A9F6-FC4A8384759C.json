@@ -1,0 +1,118 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F5E666B3-FA86-47F1-A9F6-FC4A8384759C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 280,
+    "width": 739,
+    "x": 202,
+    "y": 368
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/Mise en avant/Thème sombre/Bouton/desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "35EA0BB4-C74B-40E3-BB43-F806123F673C/2BAFE8F8-5FB3-4F6C-8300-6E10865BAC7D/EF590067-F6E7-4C0B-B957-867CB1E5DC92_layerStyle",
+      "value": "11AB3FF2-0BBC-4C61-B220-E9588F89D913"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DAEBF878-5CD6-4142-8C1D-2E239BA93A88/0E83E48D-CD7F-489D-A0D0-24171C0E468F_stringValue",
+      "value": "Acceder au service "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6E2F5E59-5B65-462D-A8C1-A84CB0935153_layerStyle",
+      "value": "202C1955-FF5C-437D-B000-4C228A4CA011"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "406CED72-49F4-4E0C-AD52-AE8925E40C65_stringValue",
+      "value": "Les parents d’enfants de 11 à 14 ans n’ont aucune démarche à accomplir : les CAF versent automatiquement l’ARS aux familles déjà allocataires qui remplissent les conditions."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "49C04C2A-8680-4EEE-A3CC-E5E8B07F8B9B_stringValue",
+      "value": "Titre callout/mise en avant"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DAEBF878-5CD6-4142-8C1D-2E239BA93A88/995E90A0-084D-4AA3-B768-0BB401E49816_stringValue",
+      "value": "Acceder au service "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "462153AC-077B-4138-B795-34699C937018",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4640EF1C-4303-48B7-95E5-C040EA4BDFC4",
+  "verticalSpacing": 0
+}

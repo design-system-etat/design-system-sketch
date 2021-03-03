@@ -1,0 +1,163 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7D71CF2F-5AF1-4841-AD89-3B8AB80F3B90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 272,
+    "width": 792,
+    "x": 204,
+    "y": 1
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/Sommaire/Thème clair/desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/AB881153-2103-4174-B477-2DC2EC14FC1B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/E1ED907D-DF72-44DE-9947-46E16933E8B5_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/6351D6DA-A580-4DE1-AF5C-838C444FE4CC_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/5065F053-0F77-4CF6-A30A-B5944D4EABF2_symbolID",
+      "value": "B4072486-DF3A-4520-8C88-C5E67CDB4FC2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/5065F053-0F77-4CF6-A30A-B5944D4EABF2/073E5CAF-F3B4-4610-8595-0DF5091470E2/4007972D-E2DE-46CA-88CA-E2BD6B972B8B_stringValue",
+      "value": "3."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/CBC361FC-83E0-4694-96AF-16C6BDBC677A/4007972D-E2DE-46CA-88CA-E2BD6B972B8B_stringValue",
+      "value": "4."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/DC6E156F-A504-488B-8DCA-4FC26B32C648/4007972D-E2DE-46CA-88CA-E2BD6B972B8B_stringValue",
+      "value": "5."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/B946D279-2C1F-4BDD-9F65-1D7A67ADBD32_stringValue",
+      "value": "Sommaire"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/090D66AF-EC23-4B56-A4A2-7F998B56243D/4007972D-E2DE-46CA-88CA-E2BD6B972B8B_stringValue",
+      "value": "1."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/090D66AF-EC23-4B56-A4A2-7F998B56243D/220EDAD3-E960-4DB9-AFAE-E8F7885E89EC_stringValue",
+      "value": "Titre de l’ancre"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/05F627C8-D47C-4831-8398-B5E7F898290F/4007972D-E2DE-46CA-88CA-E2BD6B972B8B_stringValue",
+      "value": "2."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/05F627C8-D47C-4831-8398-B5E7F898290F/220EDAD3-E960-4DB9-AFAE-E8F7885E89EC_stringValue",
+      "value": "Titre de l’ancre"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/5065F053-0F77-4CF6-A30A-B5944D4EABF2/073E5CAF-F3B4-4610-8595-0DF5091470E2/220EDAD3-E960-4DB9-AFAE-E8F7885E89EC_stringValue",
+      "value": "Titre de l’ancre"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/CBC361FC-83E0-4694-96AF-16C6BDBC677A/220EDAD3-E960-4DB9-AFAE-E8F7885E89EC_stringValue",
+      "value": "Titre de l’ancre"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3919F93-7035-4478-8D1E-6C9B5F768B25/DC6E156F-A504-488B-8DCA-4FC26B32C648/220EDAD3-E960-4DB9-AFAE-E8F7885E89EC_stringValue",
+      "value": "Titre de l’ancre"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "BD993AA5-C76E-4065-AA0A-6563175DC424",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E44B4CDB-D5EA-4128-957B-4843C48DE046",
+  "verticalSpacing": 0
+}

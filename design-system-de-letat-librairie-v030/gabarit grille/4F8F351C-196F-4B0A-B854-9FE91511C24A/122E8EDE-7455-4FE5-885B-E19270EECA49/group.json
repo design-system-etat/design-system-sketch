@@ -1,0 +1,140 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "122E8EDE-7455-4FE5-885B-E19270EECA49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 630,
+    "width": 705,
+    "x": 32,
+    "y": 630
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D33DE332-6B1F-4195-9B54-0BE493153C14"
+    },
+    {
+      "class": "rectangle",
+      "id": "9A8D2C1C-324C-4AFC-89A2-97B92FEFC467"
+    },
+    {
+      "class": "rectangle",
+      "id": "816CD231-5B1D-4011-93C9-C6F1E759B58B"
+    },
+    {
+      "class": "rectangle",
+      "id": "5D85EA89-DD5F-4EC4-9308-188B164610AA"
+    },
+    {
+      "class": "rectangle",
+      "id": "8803C31D-0D76-4105-A365-947DE7621EDF"
+    },
+    {
+      "class": "rectangle",
+      "id": "35A5031D-8451-4361-A653-B1C136168ACF"
+    },
+    {
+      "class": "rectangle",
+      "id": "6E3AEF5F-93D2-44E2-984F-340294AD475C"
+    },
+    {
+      "class": "rectangle",
+      "id": "2E48813B-46AB-4276-8385-0018D56D2DD2"
+    },
+    {
+      "class": "rectangle",
+      "id": "425C3122-AC35-4D44-96C5-2132795DBB86"
+    },
+    {
+      "class": "rectangle",
+      "id": "A1FC1251-7E99-411B-8BE2-096E87D3BC24"
+    },
+    {
+      "class": "rectangle",
+      "id": "225C2A69-9B0D-42C4-9ABE-52A500DEC7FD"
+    },
+    {
+      "class": "rectangle",
+      "id": "497CF173-8464-4EC7-84BE-9E2A7AE5C534"
+    },
+    {
+      "class": "rectangle",
+      "id": "C562970C-995A-47E0-A5B6-3281228591DE"
+    }
+  ],
+  "name": "grille sans gouttière",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "04E462E8-3220-4044-8296-7DFD0AAB8F08",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

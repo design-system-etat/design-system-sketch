@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "97251910-57D5-4136-B4EC-D1D80612D33B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 720,
+    "x": 208,
+    "y": 213
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/Barre de recherche/Thème sombre/LG - desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DE8EA89B-D545-4710-B67E-A185F47C8C91/C5B72DE4-407E-4EEF-81F0-42DEEC20CDDD_stringValue",
+      "value": "Rechercher"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6FC08C4E-9710-4DCD-AA1B-6FC6A2C26027_stringValue",
+      "value": "Rechercher un mot, une expression, une référence…"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DE8EA89B-D545-4710-B67E-A185F47C8C91/575C6DC1-E629-4FA7-8F8C-7ED9581FFDD6/2BAFE8F8-5FB3-4F6C-8300-6E10865BAC7D/2CE2B360-3063-4E55-8B42-A8CF30B84C58_layerStyle",
+      "value": "A73749F3-9B3B-478A-BCF8-1C98E193A775"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DE8EA89B-D545-4710-B67E-A185F47C8C91/26F10A1F-E821-4E2A-A904-B32A48CD3748/2BAFE8F8-5FB3-4F6C-8300-6E10865BAC7D/752E83C8-1A6D-4DAA-8407-4B916826F840_layerStyle",
+      "value": "A73749F3-9B3B-478A-BCF8-1C98E193A775"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DE8EA89B-D545-4710-B67E-A185F47C8C91/D7230D1C-7BD5-44F7-90B7-5C7309A6F136_stringValue",
+      "value": "Rechercher"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "ED3F1491-B2C8-4F1A-8285-DC96E31D7AE1",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "12ACF6EC-9F81-404C-9C57-B492110FB0CC",
+  "verticalSpacing": 0
+}

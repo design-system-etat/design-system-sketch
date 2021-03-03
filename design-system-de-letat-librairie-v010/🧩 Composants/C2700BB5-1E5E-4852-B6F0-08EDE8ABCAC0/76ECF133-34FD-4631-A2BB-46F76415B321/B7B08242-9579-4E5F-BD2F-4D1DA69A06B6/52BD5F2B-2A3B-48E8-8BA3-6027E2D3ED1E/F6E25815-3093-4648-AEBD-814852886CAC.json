@@ -1,0 +1,123 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F6E25815-3093-4648-AEBD-814852886CAC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 102,
+    "width": 1440,
+    "x": 0,
+    "y": 33
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/En-tête/desktop/Thème clair/Simple/03) Nom de site+baseline",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "703A4D21-EF35-4702-AF61-42EDA42CBB84/529E8FEE-0AF7-4925-9717-48DC625C5C30_layerStyle",
+      "value": "F201B209-4428-4B79-8E2F-7060623387D9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "161301CC-EE6C-46C5-9F7C-7EC76077E219/1D682885-11AF-43EA-BB92-12F2F7B6A108/6760CD0C-2B04-46E6-8F4E-2C62A55796EC_stringValue",
+      "value": "Intitulé"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "745EDC7F-7627-43B5-9C33-A3E72C005CEC_stringValue",
+      "value": "Nom du service-site"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BECC95B7-778D-42DF-BDA8-5862EF52D004_stringValue",
+      "value": "Baseline - précisions sur l’organisation"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BECC95B7-778D-42DF-BDA8-5862EF52D004_textStyle",
+      "value": "2B06EE82-51D6-4E85-B904-2BADFB794FCB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "745EDC7F-7627-43B5-9C33-A3E72C005CEC_textStyle",
+      "value": "744EA409-1324-4D3D-A1F1-8877391088E5"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "161301CC-EE6C-46C5-9F7C-7EC76077E219/0A1D2003-EA60-44A8-9E9A-34F58B827180/529E8FEE-0AF7-4925-9717-48DC625C5C30_layerStyle",
+      "value": "F201B209-4428-4B79-8E2F-7060623387D9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "83B0D7BC-3A3B-4163-A656-833AE254054E",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C7C04485-DC05-4708-9169-D46318890349",
+  "verticalSpacing": 0
+}

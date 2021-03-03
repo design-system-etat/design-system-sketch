@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "40E4CE1C-74EF-4867-8E93-FC98AC7FFBD2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 216,
+    "width": 739,
+    "x": 202,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/Mise en avant/Thème clair/Icône/desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BB0B1FD7-8916-4280-8025-0526A0513054_layerStyle",
+      "value": "11AB3FF2-0BBC-4C61-B220-E9588F89D913"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "102638FF-1D9D-4EF2-9C76-918E2F05B72A_textStyle",
+      "value": "5E017830-3DAA-4677-BC8D-D305B4048897"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "102638FF-1D9D-4EF2-9C76-918E2F05B72A_stringValue",
+      "value": "Les parents d’enfants de 11 à 14 ans n’ont aucune démarche à accomplir : les CAF versent automatiquement l’ARS aux familles déjà allocataires qui remplissent les conditions."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0008D324-FCAE-4FEB-AF4A-A79FF458353D_stringValue",
+      "value": "Titre callout/mise en avant"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "65889098-DCAD-48C7-A1D8-97AFE69A9D12_layerStyle",
+      "value": "A73749F3-9B3B-478A-BCF8-1C98E193A775"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "EA804032-9FA1-49B5-9970-B4037AE2BDDD",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5AAB4C80-0CE1-438F-8FD7-3390DAD7EEB5",
+  "verticalSpacing": 0
+}

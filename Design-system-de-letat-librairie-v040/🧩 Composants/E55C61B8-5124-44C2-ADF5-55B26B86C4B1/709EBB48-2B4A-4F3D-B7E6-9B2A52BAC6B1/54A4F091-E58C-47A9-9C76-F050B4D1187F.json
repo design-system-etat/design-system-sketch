@@ -1,0 +1,203 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "54A4F091-E58C-47A9-9C76-F050B4D1187F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 620,
+    "x": 258,
+    "y": 149
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/Pagination/Thème clair/Défaut",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "046E5808-A1FA-42A9-BE82-8CA919BE5896_symbolID",
+      "value": "06312584-B7C5-4165-8BDA-BB3F0F560C5F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "67188D2C-CB73-4154-8B6C-9143CA42B5A3/59145A12-6190-44D5-9E8D-8C44C3D6E228_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B3536B56-4589-495D-B827-6A8CB958AA57/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_stringValue",
+      "value": "7"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "446204AF-DC8E-402F-B5BD-68CA933A9695/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_stringValue",
+      "value": "2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6E06636E-60A9-46C5-9499-1C6A40A26424/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_stringValue",
+      "value": "..."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "22DA5A02-38C0-44D1-86F4-29060C1F364B/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_stringValue",
+      "value": "3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "30D53CA3-7972-4D2A-ABD2-BCA583647D9C/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_stringValue",
+      "value": "132"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A9A196F3-B66C-4202-B263-91AAB275A0D5/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_stringValue",
+      "value": "4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "920AB414-A892-4018-B2E7-2445FB562793/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_stringValue",
+      "value": "6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "43EC0FC4-7E51-4EBB-B013-AC3AD461AFA6/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_stringValue",
+      "value": "5"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "046E5808-A1FA-42A9-BE82-8CA919BE5896/7DE06F4D-5B89-4F4F-96A0-954BB393F888_stringValue",
+      "value": "Suivant"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "67188D2C-CB73-4154-8B6C-9143CA42B5A3/ACFDE301-3598-4FC0-976E-FB35F2563D83_layerStyle",
+      "value": "A73749F3-9B3B-478A-BCF8-1C98E193A775"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "046E5808-A1FA-42A9-BE82-8CA919BE5896/7DE06F4D-5B89-4F4F-96A0-954BB393F888_textStyle",
+      "value": "2B06EE82-51D6-4E85-B904-2BADFB794FCB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "30D53CA3-7972-4D2A-ABD2-BCA583647D9C/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_textStyle",
+      "value": "2B06EE82-51D6-4E85-B904-2BADFB794FCB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6E06636E-60A9-46C5-9499-1C6A40A26424/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_textStyle",
+      "value": "2B06EE82-51D6-4E85-B904-2BADFB794FCB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B3536B56-4589-495D-B827-6A8CB958AA57/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_textStyle",
+      "value": "2B06EE82-51D6-4E85-B904-2BADFB794FCB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "920AB414-A892-4018-B2E7-2445FB562793/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_textStyle",
+      "value": "2B06EE82-51D6-4E85-B904-2BADFB794FCB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "43EC0FC4-7E51-4EBB-B013-AC3AD461AFA6/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_textStyle",
+      "value": "2B06EE82-51D6-4E85-B904-2BADFB794FCB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A9A196F3-B66C-4202-B263-91AAB275A0D5/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_textStyle",
+      "value": "2B06EE82-51D6-4E85-B904-2BADFB794FCB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "22DA5A02-38C0-44D1-86F4-29060C1F364B/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_textStyle",
+      "value": "2B06EE82-51D6-4E85-B904-2BADFB794FCB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "446204AF-DC8E-402F-B5BD-68CA933A9695/0DEC4C53-F0B0-419D-92C8-5E20A9CDA7FE_textStyle",
+      "value": "2B06EE82-51D6-4E85-B904-2BADFB794FCB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "67188D2C-CB73-4154-8B6C-9143CA42B5A3/59145A12-6190-44D5-9E8D-8C44C3D6E228_textStyle",
+      "value": "2B06EE82-51D6-4E85-B904-2BADFB794FCB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A0B2E036-FE08-4A74-B873-0EFD9A6E90FA/C667F89C-60D9-44FC-86E9-60E6CF760532_textStyle",
+      "value": "2B06EE82-51D6-4E85-B904-2BADFB794FCB"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "ED7E2E2D-5A23-4C77-9B5A-2C45B92005DB",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "56AA1ACE-397F-4574-817B-E0FD9278CB95",
+  "verticalSpacing": 0
+}

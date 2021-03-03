@@ -1,0 +1,128 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2636204B-BEA0-499D-9CBB-A5D6471103D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 136,
+    "width": 1440,
+    "x": 0,
+    "y": 34
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/En-tête/desktop/Thème clair/Accès rapides + recherche/03) Nom de site+baseline",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF18D0F1-F9DC-4872-AA70-5115CC1E61F7/529E8FEE-0AF7-4925-9717-48DC625C5C30_layerStyle",
+      "value": "F201B209-4428-4B79-8E2F-7060623387D9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4BD642DA-1522-4AB7-B001-3B3DA69C230F/1D682885-11AF-43EA-BB92-12F2F7B6A108/6760CD0C-2B04-46E6-8F4E-2C62A55796EC_stringValue",
+      "value": "Intitulé"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9F65413C-0E19-4A64-A14E-2ADD81CC69AB_stringValue",
+      "value": "Nom du service-site"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2F783C67-72DD-4839-9241-8EAFD7F88E4C_stringValue",
+      "value": "Baseline - précisions sur l’organisation"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "35873FEC-903E-460C-9ECD-6943FADD3D27/3069CC46-43DE-4552-83BE-00D3E8B0A366/DF3929B7-B088-4E07-9AF6-5395F982EE0E_stringValue",
+      "value": "Accès rapide 01"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "35873FEC-903E-460C-9ECD-6943FADD3D27/FD8FCD14-85B4-4578-AE8D-7A825BBF5CCB/DF3929B7-B088-4E07-9AF6-5395F982EE0E_stringValue",
+      "value": "Accès rapide 02"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "35873FEC-903E-460C-9ECD-6943FADD3D27/703F40C0-93CD-4821-807F-70644C0E9078/DF3929B7-B088-4E07-9AF6-5395F982EE0E_stringValue",
+      "value": "Accès rapide 03"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A905E831-A9D2-492E-B2C1-4630783DBD93/ECF42A2F-2ACF-4709-BC77-3F62CD7A8CE5_stringValue",
+      "value": "Rechercher"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "0D628F3A-6160-4C51-A963-DD2F0A22DFE9",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5ECDB089-90FF-4828-A8AB-C8C6596FA4BB",
+  "verticalSpacing": 0
+}

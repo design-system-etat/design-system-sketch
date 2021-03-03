@@ -1,0 +1,446 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "8C10BA2B-1AFD-47B7-A236-DFF1E9CD13CB",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "01DB582D-F68B-482A-9F00-7F888500F701",
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "04769EF0-BE2C-40DB-8C0A-A07E4BF5CB15",
+      "fontFamilyName": "Marianne",
+      "fontFileName": "Marianne-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Marianne-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "50021F57-B571-4109-8D36-F93B69BD4B5E",
+      "fontFamilyName": "Marianne",
+      "fontFileName": "Marianne-ExtraBold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Marianne-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "64594235-2B92-4E3E-9EE6-3D8B35549F02",
+      "fontFamilyName": "Marianne",
+      "fontFileName": "Marianne-RegularItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Marianne-RegularItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "674E2D36-39A7-4310-B3DE-F7E60CDD2FD3",
+      "fontFamilyName": "Marianne",
+      "fontFileName": "Marianne-MediumItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Marianne-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8132311E-625D-4CC6-BA57-92C8D7079CFA",
+      "fontFamilyName": "Marianne",
+      "fontFileName": "Marianne-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Marianne-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B4667008-CF00-42F1-9D26-8AC1D36832A5",
+      "fontFamilyName": "Marianne",
+      "fontFileName": "Marianne-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Marianne-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BA23A878-9A7F-4FFE-B4EE-74C85A6C0F53",
+      "fontFamilyName": "Marianne",
+      "fontFileName": "Marianne-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Marianne-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CD2EBEE0-63F6-4B3C-8899-E86942B90BF9",
+      "fontFamilyName": "Marianne",
+      "fontFileName": "Marianne-LightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Marianne-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E754B028-B2B2-43A1-90B5-E311C9ECF2E7",
+      "fontFamilyName": "Marianne",
+      "fontFileName": "Marianne-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Marianne-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E8C9643C-79AE-4956-9B15-4B16F649B884",
+      "fontFamilyName": "Marianne",
+      "fontFileName": "Marianne-ExtraBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Marianne-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EC869CD1-3D37-4C0B-AFAC-F3BFA11420DB",
+      "fontFamilyName": "Marianne",
+      "fontFileName": "Marianne-ThinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Marianne-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FD9A8225-8CFA-4369-9A03-F4992ED4CFCD",
+      "fontFamilyName": "Marianne",
+      "fontFileName": "Marianne-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Marianne-Bold"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "3D3C7912-AB8F-4732-A378-2E49FE2577BB",
+      "libraryID": "3B8A498B-4757-4A3B-B71B-D35B10C457EF",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "E83B04CD-B81A-4A40-8EB7-07601B5B6405",
+        "name": "couleur/gris/700",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "24B44463-AB91-4BE6-8C38-1D8A2CD85546",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2196078431372549,
+                "green": 0.2196078431372549,
+                "red": 0.2196078431372549
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "202C1955-FF5C-437D-B000-4C228A4CA011",
+      "sourceLibraryName": "SIG_Master-library_🏗️",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "6D397D60-DFFD-4EEF-8449-F17D7EA30185",
+      "libraryID": "3B8A498B-4757-4A3B-B71B-D35B10C457EF",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "569A87E5-4BBA-41E0-BEB7-2CDD5334D738",
+        "name": "couleur/marque/$blue France/#000091",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "0A8BA3A0-D12B-4F5C-82DF-94425F803171",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.5686274509803921,
+                "green": 0,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "A73749F3-9B3B-478A-BCF8-1C98E193A775",
+      "sourceLibraryName": "Design-System-de-l-etat-librairie",
+      "symbolPrivate": false
+    }
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "68.2",
+    "build": 102594,
+    "version": 131
+  },
+  "pages": [
+    "Icônes"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  }
+}

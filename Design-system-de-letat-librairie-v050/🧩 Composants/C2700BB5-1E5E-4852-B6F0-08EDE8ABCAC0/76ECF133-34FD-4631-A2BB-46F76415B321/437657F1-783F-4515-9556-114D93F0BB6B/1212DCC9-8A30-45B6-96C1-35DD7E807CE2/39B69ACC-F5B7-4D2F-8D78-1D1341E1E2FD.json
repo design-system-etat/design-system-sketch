@@ -1,0 +1,158 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "39B69ACC-F5B7-4D2F-8D78-1D1341E1E2FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 102,
+    "width": 1440,
+    "x": 0,
+    "y": 36
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/En-tête/desktop/Thème clair/Accès rapides/02) Nom de site",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CC15EF08-B02F-415C-9E4F-BE6F2FBB368F/529E8FEE-0AF7-4925-9717-48DC625C5C30_layerStyle",
+      "value": "F201B209-4428-4B79-8E2F-7060623387D9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5A3E2DB7-1C1C-4979-BD36-C3547BB2B615/1D682885-11AF-43EA-BB92-12F2F7B6A108/6760CD0C-2B04-46E6-8F4E-2C62A55796EC_stringValue",
+      "value": "Intitulé"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8C376313-4458-4472-9673-81987FADEDFD_stringValue",
+      "value": "Nom du service-site"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8C376313-4458-4472-9673-81987FADEDFD_textStyle",
+      "value": "744EA409-1324-4D3D-A1F1-8877391088E5"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5A3E2DB7-1C1C-4979-BD36-C3547BB2B615/0A1D2003-EA60-44A8-9E9A-34F58B827180/529E8FEE-0AF7-4925-9717-48DC625C5C30_layerStyle",
+      "value": "F201B209-4428-4B79-8E2F-7060623387D9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C40A08AD-1706-47C4-81CF-3CC5B8E18EFB/3069CC46-43DE-4552-83BE-00D3E8B0A366_symbolID",
+      "value": "B663B132-AD81-4F26-A072-866FA82E60A3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C40A08AD-1706-47C4-81CF-3CC5B8E18EFB/3069CC46-43DE-4552-83BE-00D3E8B0A366/7B06D7D3-D160-4C29-9EA8-80960D32EE47_stringValue",
+      "value": "Accès rapide 01"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C40A08AD-1706-47C4-81CF-3CC5B8E18EFB/FD8FCD14-85B4-4578-AE8D-7A825BBF5CCB_symbolID",
+      "value": "B663B132-AD81-4F26-A072-866FA82E60A3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C40A08AD-1706-47C4-81CF-3CC5B8E18EFB/FD8FCD14-85B4-4578-AE8D-7A825BBF5CCB/7B06D7D3-D160-4C29-9EA8-80960D32EE47_stringValue",
+      "value": "Accès rapide 02"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C40A08AD-1706-47C4-81CF-3CC5B8E18EFB/703F40C0-93CD-4821-807F-70644C0E9078_symbolID",
+      "value": "B663B132-AD81-4F26-A072-866FA82E60A3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C40A08AD-1706-47C4-81CF-3CC5B8E18EFB/703F40C0-93CD-4821-807F-70644C0E9078/7B06D7D3-D160-4C29-9EA8-80960D32EE47_stringValue",
+      "value": "Accès rapide 03"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C40A08AD-1706-47C4-81CF-3CC5B8E18EFB/3069CC46-43DE-4552-83BE-00D3E8B0A366/7B06D7D3-D160-4C29-9EA8-80960D32EE47_textStyle",
+      "value": "D91F7207-2049-4BA5-A3B1-7C2BFBBDE5F0"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C40A08AD-1706-47C4-81CF-3CC5B8E18EFB/FD8FCD14-85B4-4578-AE8D-7A825BBF5CCB/7B06D7D3-D160-4C29-9EA8-80960D32EE47_textStyle",
+      "value": "D91F7207-2049-4BA5-A3B1-7C2BFBBDE5F0"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C40A08AD-1706-47C4-81CF-3CC5B8E18EFB/703F40C0-93CD-4821-807F-70644C0E9078/7B06D7D3-D160-4C29-9EA8-80960D32EE47_textStyle",
+      "value": "D91F7207-2049-4BA5-A3B1-7C2BFBBDE5F0"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "21C2AE7B-0814-4316-9AFF-D4D9E6B8FFAD",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ED79F7F1-E11D-4385-819B-AF9749751362",
+  "verticalSpacing": 0
+}

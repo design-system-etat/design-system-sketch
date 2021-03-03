@@ -1,0 +1,128 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6D1AC30D-EAFF-402E-AAA6-FE17C61908D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 258,
+    "x": 0,
+    "y": 96
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/Tag/Thème sombre/cliquables/SM/Groupe de tags",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F6D5A0F9-E781-4D56-9C56-6AE5EFB52755_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "11F29972-7DB5-4764-B681-67C1B355F2B0_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A13D0B92-75F3-40A4-81EA-336A8A826FC9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "21B939A2-E483-4254-8721-D17F91BA37F9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "62B0AC1E-CACA-45B7-8007-1B30FB90A7E1_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "502B10F7-EE95-4F0B-ACC5-AC91BEE2503C/EAEB5E40-0656-4150-B2AB-74D96336882A_stringValue",
+      "value": "Label tag"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "875328CE-8F7C-43C3-93ED-F897E643F763/EAEB5E40-0656-4150-B2AB-74D96336882A_stringValue",
+      "value": "Label tag"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F4C5D88A-D91F-4366-B318-C804C9F11D1D/EAEB5E40-0656-4150-B2AB-74D96336882A_stringValue",
+      "value": "Label tag"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "BB2E8ADD-4FA5-4B0F-A84B-76FCEC92C02A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8AF24ADB-0C6D-4173-AED3-420DEC679BB0",
+  "verticalSpacing": 0
+}

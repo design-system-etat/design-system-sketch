@@ -1,0 +1,118 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4A3DF17C-6647-4C81-98A5-9CEDABE1659A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 288,
+    "width": 288,
+    "x": 16,
+    "y": 401
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/Accordéon/Mobile/Thème sombre/groupe",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0DF3F6F6-9C3A-4125-8648-8504E88CD95C/4A493CB9-3EA2-4831-BD5F-74A5F0D446AD_stringValue",
+      "value": "Intitulé accordéon"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF015CA7-0F53-4BB1-B3FD-876A34BA28E9/4A493CB9-3EA2-4831-BD5F-74A5F0D446AD_stringValue",
+      "value": "Intitulé accordéon"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "62D60BF4-C507-4851-8F3F-E7023BA4EC48/4A493CB9-3EA2-4831-BD5F-74A5F0D446AD_stringValue",
+      "value": "Intitulé accordéon"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CF569972-B504-46FD-BAC8-B9FAA599C64A/4A493CB9-3EA2-4831-BD5F-74A5F0D446AD_stringValue",
+      "value": "Intitulé accordéon"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D8C35ECB-3297-477D-BFBB-A6FE51DE5F61/4A493CB9-3EA2-4831-BD5F-74A5F0D446AD_stringValue",
+      "value": "Intitulé accordéon"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AB3D4155-A887-4920-9C1D-EC519C7DEC7C/4A493CB9-3EA2-4831-BD5F-74A5F0D446AD_stringValue",
+      "value": "Intitulé accordéon"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "A030278B-F026-458A-AB7C-831F900B2159",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C25904B4-5DAA-428B-8B4F-14F195FD2B48",
+  "verticalSpacing": 0
+}

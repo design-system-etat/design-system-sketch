@@ -1,0 +1,123 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "07A16210-B64D-4F90-9BB3-CAE983088AB1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 99,
+    "width": 357,
+    "x": 97,
+    "y": 1122
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/Champs de saisie/Thème sombre/4) Erreur+message",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "71BC7A58-563A-4AF4-8F06-460A49DD2258/BC201FA4-84CF-43C5-B09B-97223735EC12_symbolID",
+      "value": "DEB9E750-3373-4F92-827E-F52F328D054A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "71BC7A58-563A-4AF4-8F06-460A49DD2258/BC201FA4-84CF-43C5-B09B-97223735EC12/529CCE62-A852-4DDF-9E15-2D73C70A526C_layerStyle",
+      "value": "DF15254B-9A56-41BE-A598-397188864144"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1A4BF3F-028C-4E40-8B07-AD5D20A0DE42/8239201F-C708-4DAF-BE10-526116EF6FCB_layerStyle",
+      "value": "DF15254B-9A56-41BE-A598-397188864144"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "21552E7B-7791-465C-AE0B-54D05DD20840_textStyle",
+      "value": "DA667B54-BC1F-4614-B2CB-2FD421316E6A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3874BF2-EEFD-4AD5-8FE5-042693A09CA1_stringValue",
+      "value": "Label"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1A4BF3F-028C-4E40-8B07-AD5D20A0DE42/32E3DFDC-3107-434A-BAD3-26E02BFCAC08_stringValue",
+      "value": "Typed text"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "21552E7B-7791-465C-AE0B-54D05DD20840_stringValue",
+      "value": "Texte d’erreur obligatoire"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "46AAD776-F6FB-48CB-A895-4F7E085273BD",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "667387EF-11C3-4562-B245-AED4E5829CD1",
+  "verticalSpacing": 0
+}

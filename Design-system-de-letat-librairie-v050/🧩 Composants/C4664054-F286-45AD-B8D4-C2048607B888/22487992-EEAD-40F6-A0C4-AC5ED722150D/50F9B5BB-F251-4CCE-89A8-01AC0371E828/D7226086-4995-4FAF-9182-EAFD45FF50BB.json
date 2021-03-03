@@ -1,0 +1,133 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7226086-4995-4FAF-9182-EAFD45FF50BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 256,
+    "width": 792,
+    "x": 204,
+    "y": 1
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/Mise en avant/Thème clair/Bouton/desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "593F8E00-DE12-409B-8276-CE336F571C54/8DF781F3-2791-4CA7-9B70-735E9A74EFCA/D609DFA0-ACAF-4D21-96AD-3FB6BC1D6C43_layerStyle",
+      "value": "A73749F3-9B3B-478A-BCF8-1C98E193A775"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "44C4DDFC-C820-4DCD-9B5C-8C125CFED047/2BAFE8F8-5FB3-4F6C-8300-6E10865BAC7D/EF590067-F6E7-4C0B-B957-867CB1E5DC92_layerStyle",
+      "value": "202C1955-FF5C-437D-B000-4C228A4CA011"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "593F8E00-DE12-409B-8276-CE336F571C54/3DB3CD62-BAF7-4A42-9C4E-B3D062EAAA3E_stringValue",
+      "value": "Acceder au service"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2AD2FB68-DFEC-4F04-B04B-C84D8CF47EC4_layerStyle",
+      "value": "11AB3FF2-0BBC-4C61-B220-E9588F89D913"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "56DB8651-3AF1-4AA6-9307-6FF085D2BB0D_textStyle",
+      "value": "5E017830-3DAA-4677-BC8D-D305B4048897"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "56DB8651-3AF1-4AA6-9307-6FF085D2BB0D_stringValue",
+      "value": "Les parents d’enfants de 11 à 14 ans n’ont aucune démarche à accomplir : les CAF versent automatiquement l’ARS aux familles déjà allocataires qui remplissent les conditions."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "08BC0134-E39C-403D-AD92-6F09F5E8D943_stringValue",
+      "value": "Titre callout/mise en avant"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "85D67779-6593-403D-869B-C81ADC2840A6_layerStyle",
+      "value": "A73749F3-9B3B-478A-BCF8-1C98E193A775"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "593F8E00-DE12-409B-8276-CE336F571C54/F94D339B-3C2A-4222-8202-1EA41CABF8D6_stringValue",
+      "value": "Acceder au service"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "38D8B291-2357-469B-A4F5-7DB9BBDB0FBE",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A879BC59-1DCF-40FD-96A3-3CD65207DBF2",
+  "verticalSpacing": 0
+}

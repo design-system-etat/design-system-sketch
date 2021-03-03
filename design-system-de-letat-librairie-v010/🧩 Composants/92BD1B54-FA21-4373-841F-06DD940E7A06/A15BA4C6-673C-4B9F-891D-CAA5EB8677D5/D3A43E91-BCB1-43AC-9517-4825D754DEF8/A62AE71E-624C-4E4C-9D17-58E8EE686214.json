@@ -1,0 +1,138 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A62AE71E-624C-4E4C-9D17-58E8EE686214",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 214,
+    "width": 353,
+    "x": 97,
+    "y": 505
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/Boutons radios/Thème sombre/6) Groupe/Boutons radios+texte d'aide",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CBD97406-1D93-4C80-AB7B-279284E79834_stringValue",
+      "value": "Titre de la section"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5C508D50-20BE-47CE-93B7-7B414195324E/DA4EE058-8CF3-42D8-BCA1-DA4B4350314B/AD4A0B08-ABF8-4167-AAC8-E6672B26428A_stringValue",
+      "value": "Label numero 1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5C508D50-20BE-47CE-93B7-7B414195324E/83E24EAC-9D74-407E-9965-94FBDAFD18F7_stringValue",
+      "value": "Microcopy supporting the label"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8367747B-D71D-42BE-B307-F1B5BB603526/DA4EE058-8CF3-42D8-BCA1-DA4B4350314B/AD4A0B08-ABF8-4167-AAC8-E6672B26428A_stringValue",
+      "value": "Label numero 2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8367747B-D71D-42BE-B307-F1B5BB603526/83E24EAC-9D74-407E-9965-94FBDAFD18F7_stringValue",
+      "value": "Microcopy supporting the label"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26C5966F-5184-458C-9F01-C551A90FB97D/DA4EE058-8CF3-42D8-BCA1-DA4B4350314B/AD4A0B08-ABF8-4167-AAC8-E6672B26428A_stringValue",
+      "value": "Label numero 3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26C5966F-5184-458C-9F01-C551A90FB97D/83E24EAC-9D74-407E-9965-94FBDAFD18F7_stringValue",
+      "value": "Microcopy supporting the label"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26C5966F-5184-458C-9F01-C551A90FB97D/83E24EAC-9D74-407E-9965-94FBDAFD18F7_textStyle",
+      "value": "B769A0FC-B598-4143-8B0B-8E600FA1B77E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8367747B-D71D-42BE-B307-F1B5BB603526/83E24EAC-9D74-407E-9965-94FBDAFD18F7_textStyle",
+      "value": "B769A0FC-B598-4143-8B0B-8E600FA1B77E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5C508D50-20BE-47CE-93B7-7B414195324E/83E24EAC-9D74-407E-9965-94FBDAFD18F7_textStyle",
+      "value": "B769A0FC-B598-4143-8B0B-8E600FA1B77E"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "681016CE-D134-4FA3-A1F2-BC4280A01589",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "501A08CF-8825-4FBC-831F-B01255438693",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,133 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "20A5D813-399E-4432-839E-1C13254D8E53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 448,
+    "width": 288,
+    "x": 0,
+    "y": 592
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/Toggle-switch/Thème clair/Label à gauche/Sans statut/3) Groupe",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DBFF9EA7-7BBC-4D58-962B-AA0893A2D4A1_symbolID",
+      "value": "018372F4-D546-4B08-8430-60CCE35B91B9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AA06B17B-19ED-4F91-9A5E-1DBF206FFFF3/3FA021AA-F07D-4350-B22B-8CD7395871A2_stringValue",
+      "value": "Label action interrupteur"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DBFF9EA7-7BBC-4D58-962B-AA0893A2D4A1/E8154B74-77DF-4B0F-979A-6EBEEE485685_stringValue",
+      "value": "Label action interrupteur"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DBB01F20-0378-481E-B337-C253C247AC54/3FA021AA-F07D-4350-B22B-8CD7395871A2_stringValue",
+      "value": "Label action interrupteur"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ECE9AA38-A855-430F-BCCA-DB1802694CCD/3FA021AA-F07D-4350-B22B-8CD7395871A2_stringValue",
+      "value": "Label action interrupteur"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DC02A21C-4CEC-4561-9EF2-F7F9305DA112/3FA021AA-F07D-4350-B22B-8CD7395871A2_stringValue",
+      "value": "Label action interrupteur"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E9411A1E-08A6-436B-AC30-21F7D4178C8C/3FA021AA-F07D-4350-B22B-8CD7395871A2_stringValue",
+      "value": "Label action interrupteur"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "38156802-4105-4A91-8444-935A48A725FF/3FA021AA-F07D-4350-B22B-8CD7395871A2_stringValue",
+      "value": "Label action interrupteur"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DE73DF05-7C45-404F-9F4A-983FBEDFE9D1/3FA021AA-F07D-4350-B22B-8CD7395871A2_stringValue",
+      "value": "Label action interrupteur"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "57928E41-8A5F-47A1-8099-33FCAB198FFF",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DFAED732-63C6-46D8-B9B3-BA9285FAA0EB",
+  "verticalSpacing": 0
+}

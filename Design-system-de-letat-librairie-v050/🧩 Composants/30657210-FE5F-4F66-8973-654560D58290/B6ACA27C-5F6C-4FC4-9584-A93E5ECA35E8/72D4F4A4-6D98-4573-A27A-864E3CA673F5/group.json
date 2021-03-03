@@ -1,0 +1,144 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "72D4F4A4-6D98-4573-A27A-864E3CA673F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 400,
+    "width": 745,
+    "x": 0,
+    "y": 121
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "587E38FA-D341-4429-805E-7152C57B02CE"
+    },
+    {
+      "class": "rectangle",
+      "id": "E409C641-8EB9-45E1-8CDB-B1978B56BCB8"
+    },
+    {
+      "class": "rectangle",
+      "id": "F9F05E2D-2FD5-4BF7-B523-819CAA858262"
+    },
+    {
+      "class": "rectangle",
+      "id": "4DB2403A-56B5-4647-BDD7-23B24AC788A9"
+    },
+    {
+      "class": "rectangle",
+      "id": "4EADE317-6BBA-40F3-B806-433DBD9B9DE7"
+    },
+    {
+      "class": "rectangle",
+      "id": "CAC5F187-5881-473E-BCEC-704DC3A0A290"
+    },
+    {
+      "class": "rectangle",
+      "id": "F01888EB-A05C-4118-B9B2-05DE984F37AE"
+    },
+    {
+      "class": "rectangle",
+      "id": "5714175E-7FCF-45D9-B786-F1ED2A5C3755"
+    },
+    {
+      "class": "rectangle",
+      "id": "986CCC45-CAB1-4429-A767-F17C25841C79"
+    },
+    {
+      "class": "rectangle",
+      "id": "447DBCBE-E5AA-4E60-9467-DFFD2A1536FB"
+    },
+    {
+      "class": "rectangle",
+      "id": "1A39E6FE-55AA-486B-9A2A-674FB9EE14DC"
+    },
+    {
+      "class": "rectangle",
+      "id": "CC9F7D73-FA7F-47D8-A1E7-796F7C7D9301"
+    },
+    {
+      "class": "rectangle",
+      "id": "65492A0D-4F2F-4B8B-85F1-B509B863B203"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF4B5684-253C-4FC9-A52A-F7FA3CB7AE84"
+    }
+  ],
+  "name": "Desktop",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "39DF61D6-FD20-4E37-8C7F-DD5D32316FE8",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

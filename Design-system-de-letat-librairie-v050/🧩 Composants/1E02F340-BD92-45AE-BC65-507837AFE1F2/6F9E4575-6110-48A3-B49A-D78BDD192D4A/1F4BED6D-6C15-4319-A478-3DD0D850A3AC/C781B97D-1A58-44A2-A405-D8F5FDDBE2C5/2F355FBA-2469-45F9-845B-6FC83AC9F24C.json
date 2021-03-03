@@ -1,0 +1,128 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2F355FBA-2469-45F9-845B-6FC83AC9F24C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 1440,
+    "x": 0,
+    "y": 36
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/Navigation principale/Thème clair/Desktop/barre de navigation/5 à 8 items/1) liens direct",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7918A1E3-6B09-4304-8DB5-76839581E141/BC6A72DE-D88C-4062-8822-FC1DEF581CEF_stringValue",
+      "value": "Liens direct"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "026F0388-C779-4C9A-8B6D-2F5A86C39898/BC6A72DE-D88C-4062-8822-FC1DEF581CEF_stringValue",
+      "value": "Liens direct"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8BF1DF84-624F-4A8F-A4E9-97C1B37B81FB/BC6A72DE-D88C-4062-8822-FC1DEF581CEF_stringValue",
+      "value": "Liens direct"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D8EDF5F7-8BEC-4E67-92BB-0002989D5C11/BC6A72DE-D88C-4062-8822-FC1DEF581CEF_stringValue",
+      "value": "Liens direct"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5E3C5B54-F09D-432D-B26F-67E0EB204538/BC6A72DE-D88C-4062-8822-FC1DEF581CEF_stringValue",
+      "value": "Liens direct"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "01A6BE41-AFE0-4428-AE0A-7496BF281816/BC6A72DE-D88C-4062-8822-FC1DEF581CEF_stringValue",
+      "value": "Liens direct"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "32551712-E3D2-4945-B7C9-539EC2263EDD/BC6A72DE-D88C-4062-8822-FC1DEF581CEF_stringValue",
+      "value": "Liens direct"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DC11D99B-7131-4C24-8E7F-1DB789CA8684/BC6A72DE-D88C-4062-8822-FC1DEF581CEF_stringValue",
+      "value": "Liens direct"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "8139E5B6-25A3-4799-B5B1-E39A49C4A948",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EA9B130E-17E8-4A10-8B2D-2C0906EBC169",
+  "verticalSpacing": 0
+}

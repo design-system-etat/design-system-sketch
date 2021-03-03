@@ -1,0 +1,239 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD1CAE6C-4F2A-4C98-991B-96AF924D4E38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 384,
+    "width": 320,
+    "x": 19359,
+    "y": 310
+  },
+  "groupLayout": {
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E4442571-BFD8-4BFE-8BA6-541315BAECF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D09FDAC1-21AA-401B-AFD0-BF6DED90A8F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38A6961E-4CE6-40F3-8429-F2703FBB29CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "952ED860-8441-4CC3-BC68-84C86B48B2B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE647F29-23BE-4B4C-BB17-E46C3E8933FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E88C3AB-321F-4D43-9FE1-EACBED1187B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5A30CF4-2028-4AE8-8A9E-BB31B255FC5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "77A1C485-6F25-42DB-AC10-1DD02F1DBBD7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0AB78970-17CE-4F03-9704-9805B48224AA"
+    }
+  ],
+  "name": "02 Composants/Navigation principale/Thème clair/Desktop/Menu déroulant/Liste de liens",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E4442571-BFD8-4BFE-8BA6-541315BAECF5_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0AB78970-17CE-4F03-9704-9805B48224AA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "DE647F29-23BE-4B4C-BB17-E46C3E8933FB/DBAC80BE-BF19-4CC4-8CDF-7BFB78B8C90A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "952ED860-8441-4CC3-BC68-84C86B48B2B7/DBAC80BE-BF19-4CC4-8CDF-7BFB78B8C90A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "0AB78970-17CE-4F03-9704-9805B48224AA/DBAC80BE-BF19-4CC4-8CDF-7BFB78B8C90A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "0E88C3AB-321F-4D43-9FE1-EACBED1187B4/DBAC80BE-BF19-4CC4-8CDF-7BFB78B8C90A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "E5A30CF4-2028-4AE8-8A9E-BB31B255FC5E/DBAC80BE-BF19-4CC4-8CDF-7BFB78B8C90A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "38A6961E-4CE6-40F3-8429-F2703FBB29CD/DBAC80BE-BF19-4CC4-8CDF-7BFB78B8C90A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "77A1C485-6F25-42DB-AC10-1DD02F1DBBD7/DBAC80BE-BF19-4CC4-8CDF-7BFB78B8C90A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E5A30CF4-2028-4AE8-8A9E-BB31B255FC5E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D09FDAC1-21AA-401B-AFD0-BF6DED90A8F4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "952ED860-8441-4CC3-BC68-84C86B48B2B7_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DE647F29-23BE-4B4C-BB17-E46C3E8933FB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0E88C3AB-321F-4D43-9FE1-EACBED1187B4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "38A6961E-4CE6-40F3-8429-F2703FBB29CD_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "77A1C485-6F25-42DB-AC10-1DD02F1DBBD7_symbolID"
+    }
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "87A7B340-7A9A-4CA5-A33F-0A38C032B173",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D510225A-C629-4AF0-AAE6-F48A5F063821",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA36A211-7CA2-4F2F-8163-DAB557A3F439",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 241,
+    "width": 1440,
+    "x": 0,
+    "y": 363
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02 Composants/Pied de page/Thème sombre/desktop/Pied de page simple",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "47F27107-5A29-4641-98AB-32AAD27DD6D8/8A84B0E8-2186-49E2-B553-89949261B36F/7B35A065-72EF-42D9-B050-1C8685EF91F2_layerStyle",
+      "value": "76E98DE2-B40C-47C0-9B05-4AE8B4166856"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "47F27107-5A29-4641-98AB-32AAD27DD6D8/8A84B0E8-2186-49E2-B553-89949261B36F/23B52A52-2B98-4186-8246-E8DEB2F1F1DC_layerStyle",
+      "value": "76E98DE2-B40C-47C0-9B05-4AE8B4166856"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "47F27107-5A29-4641-98AB-32AAD27DD6D8/8A84B0E8-2186-49E2-B553-89949261B36F/2F304851-CFBE-4659-927E-84FFEFFA45AA_layerStyle",
+      "value": "76E98DE2-B40C-47C0-9B05-4AE8B4166856"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "47F27107-5A29-4641-98AB-32AAD27DD6D8/1370D93C-98AF-4C1C-B1A5-6ECBEA0BF51C_stringValue",
+      "value": "Texte optionnel 3 lignes maximum.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet mollis dolor. Maecenas pellentesque aliquet ex nec aliquam. "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "47F27107-5A29-4641-98AB-32AAD27DD6D8/8A84B0E8-2186-49E2-B553-89949261B36F/5FE00126-0464-43F5-8207-AF893E3C7CBC_stringValue",
+      "value": "République \nFrançaise"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9F2C9C0-E531-444B-B0F0-8B39B6A4F14A/D80A32CC-527A-4538-8028-30D5CA630510_stringValue",
+      "value": "Gestion des cookies"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9F2C9C0-E531-444B-B0F0-8B39B6A4F14A/0C03F2B2-106B-49AC-AA1A-E688E216E32D_stringValue",
+      "value": "Données personnelles"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9F2C9C0-E531-444B-B0F0-8B39B6A4F14A/88197983-654A-4331-B9E5-433480E284D7_stringValue",
+      "value": "mentions légales"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9F2C9C0-E531-444B-B0F0-8B39B6A4F14A/BA0E0A16-39CD-44E0-9A30-D6BBB2946DBC_stringValue",
+      "value": "Accessibilité"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9F2C9C0-E531-444B-B0F0-8B39B6A4F14A/F84AD72E-0F70-487C-AEC8-926795E7A4D4_stringValue",
+      "value": "Plan du site"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9F2C9C0-E531-444B-B0F0-8B39B6A4F14A/653CC96D-51AA-41A2-8C21-C3FE265E8F8D_textStyle",
+      "value": "69480841-3533-4D3F-B955-8F894FD29804"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9F2C9C0-E531-444B-B0F0-8B39B6A4F14A/F84AD72E-0F70-487C-AEC8-926795E7A4D4_textStyle",
+      "value": "69480841-3533-4D3F-B955-8F894FD29804"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9F2C9C0-E531-444B-B0F0-8B39B6A4F14A/BA0E0A16-39CD-44E0-9A30-D6BBB2946DBC_textStyle",
+      "value": "69480841-3533-4D3F-B955-8F894FD29804"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9F2C9C0-E531-444B-B0F0-8B39B6A4F14A/88197983-654A-4331-B9E5-433480E284D7_textStyle",
+      "value": "69480841-3533-4D3F-B955-8F894FD29804"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9F2C9C0-E531-444B-B0F0-8B39B6A4F14A/0C03F2B2-106B-49AC-AA1A-E688E216E32D_textStyle",
+      "value": "69480841-3533-4D3F-B955-8F894FD29804"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9F2C9C0-E531-444B-B0F0-8B39B6A4F14A/D80A32CC-527A-4538-8028-30D5CA630510_textStyle",
+      "value": "69480841-3533-4D3F-B955-8F894FD29804"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D4EC7BE7-53C3-4252-9BE0-EAA05C0B3AE8",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C74FEB9F-0C81-489C-A973-00D2963F6926",
+  "verticalSpacing": 0
+}

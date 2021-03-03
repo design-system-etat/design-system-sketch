@@ -1,0 +1,153 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7BEE8B59-B16B-46DD-93CB-6C962477E6CA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 304,
+    "width": 288,
+    "x": 0,
+    "y": 60
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Champs de saisie",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E18A790F-695C-43A6-85BB-1C0FE2E0E368/1E06562D-2D44-4BE9-B4CB-FAB6092DC71C/C0EDE67A-21F8-4C2B-A606-F0FDBBAEC919_layerStyle",
+      "value": "11AB3FF2-0BBC-4C61-B220-E9588F89D913"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B530F7B0-508D-42F3-96CD-5CD3BF14AA36/1E06562D-2D44-4BE9-B4CB-FAB6092DC71C/C0EDE67A-21F8-4C2B-A606-F0FDBBAEC919_layerStyle",
+      "value": "11AB3FF2-0BBC-4C61-B220-E9588F89D913"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26C63CEE-B0AB-4F7F-AA25-365DCD2A14AD/1E06562D-2D44-4BE9-B4CB-FAB6092DC71C/C0EDE67A-21F8-4C2B-A606-F0FDBBAEC919_layerStyle",
+      "value": "11AB3FF2-0BBC-4C61-B220-E9588F89D913"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26C63CEE-B0AB-4F7F-AA25-365DCD2A14AD/0CFABC6D-6F96-4025-80FF-D33874EFFFFF_textStyle",
+      "value": "2C6056BC-4D91-41C3-BEF0-B140AD399627"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B530F7B0-508D-42F3-96CD-5CD3BF14AA36/0CFABC6D-6F96-4025-80FF-D33874EFFFFF_textStyle",
+      "value": "2C6056BC-4D91-41C3-BEF0-B140AD399627"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E18A790F-695C-43A6-85BB-1C0FE2E0E368/0CFABC6D-6F96-4025-80FF-D33874EFFFFF_textStyle",
+      "value": "2C6056BC-4D91-41C3-BEF0-B140AD399627"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C4837525-0F13-4C53-AEEE-E9FD213A3B91_stringValue",
+      "value": "Titre de la section"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26C63CEE-B0AB-4F7F-AA25-365DCD2A14AD/0CFABC6D-6F96-4025-80FF-D33874EFFFFF_stringValue",
+      "value": "Label"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "26C63CEE-B0AB-4F7F-AA25-365DCD2A14AD/1E06562D-2D44-4BE9-B4CB-FAB6092DC71C/AAF89728-C397-4582-A314-041C7B549012_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B530F7B0-508D-42F3-96CD-5CD3BF14AA36/0CFABC6D-6F96-4025-80FF-D33874EFFFFF_stringValue",
+      "value": "Label"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B530F7B0-508D-42F3-96CD-5CD3BF14AA36/1E06562D-2D44-4BE9-B4CB-FAB6092DC71C/AAF89728-C397-4582-A314-041C7B549012_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E18A790F-695C-43A6-85BB-1C0FE2E0E368/0CFABC6D-6F96-4025-80FF-D33874EFFFFF_stringValue",
+      "value": "Label"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E18A790F-695C-43A6-85BB-1C0FE2E0E368/1E06562D-2D44-4BE9-B4CB-FAB6092DC71C/AAF89728-C397-4582-A314-041C7B549012_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "8963243A-7B9A-4936-8E23-B8BCB163DDB0",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "967D43C8-0AE0-4C17-8AFA-04ECFD7EEC78",
+  "verticalSpacing": 0
+}
